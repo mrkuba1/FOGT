@@ -1,2 +1,0 @@
-# FOGT
-Repository for FOGT
